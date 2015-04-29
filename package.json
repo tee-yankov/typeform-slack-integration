@@ -1,0 +1,14 @@
+{
+  "name": "typeform-slack",
+  "version": "1.0.0",
+  "description": "An utility to turn slack into a community platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Theodore Yankov",
+  "license": "MIT"
+}

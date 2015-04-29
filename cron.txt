@@ -1,0 +1,1 @@
+0 * * * * /usr/local/bin/node /root/typeform-slack/build/app > /root/cron.log
